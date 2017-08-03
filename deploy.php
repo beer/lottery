@@ -15,7 +15,7 @@ set('default_stage', 'prod');
 
 // Hosts
 
-host('lottery.speculator.im')
+host('speculator.im')
     ->user('deployer')
     ->stage('prod')
     ->set('deploy_path', '/srv/www/lottery');
