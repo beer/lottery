@@ -1,3 +1,0 @@
-[submodule "extsrc/pix"]
-	path = extsrc/pix
-	url = git@github.com:ronnywang/pixframework.git
